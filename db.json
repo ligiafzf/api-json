@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "O que é React JS?",
+      "categoria": "Front-end",
+      "imagem": "https://i.ytimg.com/vi/6IuQUgeDPg0/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
+      "descricao": "Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele. "
+    },
+    {
+      "id": "2",
+      "titulo": "O que faz uma desenvolvedora front-end?",
+      "categoria": "Front-end",
+      "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+      "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!"
+    },
+    {
+      "id": "3",
+      "titulo": "O que é e o que faz quem trabalha com UX?",
+      "categoria": "Front-end",
+      "imagem": "https://i.ytimg.com/vi/FJhMCi07T4A/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=FJhMCi07T4A",
+      "descricao": "Nesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T."
+    },
+    {
+      "id": "4",
+      "titulo": "Guia de carreira Front-end",
+      "categoria": "Desenvolvimento Web",
+      "imagem": "https://i.ytimg.com/vi/fpth65ts3cw/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=fpth65ts3cw",
+      "descricao": "Um guia completo sobre como começar e progredir na carreira de desenvolvedor front-end, incluindo habilidades necessárias, ferramentas essenciais e dicas práticas."
+    },
+    {
+      "id": "5",
+      "titulo": "O que faz uma desenvolvedora Back-end?",
+      "categoria": "Back-end",
+      "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+      "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira?"
+    },
+    {
+      "id": "6",
+      "titulo": "GitHub CLI - Uma Nova Experiência no Github!",
+      "categoria": "Back-end",
+      "imagem": "https://i.ytimg.com/vi/6o6-bKOZOEY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=6o6-bKOZOEY",
+      "descricao": "Nesse vídeo vamos aprender um pouco mais o que seria o GitHub CLI e quais são as suas vantagens!"
+    },
+    {
+      "id": "7",
+      "titulo": "Qual é a melhor linguagem de programação?",
+      "categoria": "Back-end",
+      "imagem": "https://i.ytimg.com/vi/Uh-GNH-t89w/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=Uh-GNH-t89w",
+      "descricao": "PHP, JavaScript, Python, Java e outras... qual é a melhor? Como surgiram essas linguagens e quais as aplicações e usos de cada uma na aprendizagem e para o mercado? Descubra nesta conversa da Roberta Arcoverde e do Paulo Silveira."
+    },
+    {
+      "id": "8",
+      "titulo": "Desenvolvimento Android",
+      "categoria": "Mobile",
+      "imagem": "https://i.ytimg.com/vi/fWscDFHKgw8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+      "descricao": "Aprenda sobre desenvolvimento Android, suas ferramentas, melhores práticas e como começar a criar aplicativos para dispositivos móveis."
+    },
+    {
+      "id": "9",
+      "titulo": "The New React Native",
+      "categoria": "Mobile",
+      "imagem": "https://i.ytimg.com/vi/52El0EUI6D0/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=52El0EUI6D0",
+      "descricao": "Descubra as novidades mais recentes no mundo do React Native. Este vídeo explora as novas funcionalidades, melhorias de desempenho e atualizações recentes que transformaram o desenvolvimento de aplicativos móveis com React Native."
+    },
+    {
+      "id": "10",
+      "titulo": "Primeiro App com o Flutter",
+      "categoria": "Mobile",
+      "imagem": "https://i.ytimg.com/vi/xSC8j3gl7xM/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
+      "descricao": "Chegou a hora de criarmos nosso primeiro aplicativo com o Flutter e entender como fazer tudo funcionar!"
+    }     
+  ]
+}
