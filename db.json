@@ -27,7 +27,7 @@
     {
       "id": "4",
       "titulo": "Guia de carreira Front-end",
-      "categoria": "Desenvolvimento Web",
+      "categoria": "Front-end",
       "imagem": "https://i.ytimg.com/vi/fpth65ts3cw/maxresdefault.jpg",
       "video": "https://www.youtube.com/watch?v=fpth65ts3cw",
       "descricao": "Um guia completo sobre como começar e progredir na carreira de desenvolvedor front-end, incluindo habilidades necessárias, ferramentas essenciais e dicas práticas."
@@ -58,27 +58,27 @@
     },
     {
       "id": "8",
-      "titulo": "Desenvolvimento Android",
-      "categoria": "Mobile",
-      "imagem": "https://i.ytimg.com/vi/fWscDFHKgw8/maxresdefault.jpg",
-      "video": "https://www.youtube.com/watch?v=fWscDFHKgw8",
-      "descricao": "Aprenda sobre desenvolvimento Android, suas ferramentas, melhores práticas e como começar a criar aplicativos para dispositivos móveis."
+      "titulo": "As 9 Softskills mais desejadas pelas empresas",
+      "categoria": "Inovação e Gestão",
+      "imagem": "https://i.ytimg.com/vi/SjY0zj17-8U/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=SjY0zj17-8U&list=PLh2Y_pKOa4UcjTE5zJ6Bbq9eiOtKuFQS_",
+      "descricao": "Descubra as softskills essenciais que as empresas mais valorizam e como desenvolvê-las para se destacar no mercado de trabalho."
     },
     {
       "id": "9",
-      "titulo": "The New React Native",
-      "categoria": "Mobile",
-      "imagem": "https://i.ytimg.com/vi/52El0EUI6D0/maxresdefault.jpg",
-      "video": "https://www.youtube.com/watch?v=52El0EUI6D0",
-      "descricao": "Descubra as novidades mais recentes no mundo do React Native. Este vídeo explora as novas funcionalidades, melhorias de desempenho e atualizações recentes que transformaram o desenvolvimento de aplicativos móveis com React Native."
+      "titulo": "Agile e Squads: Estratégias Avançadas",
+      "categoria": "Inovação e Gestão",
+      "imagem": "https://i.ytimg.com/vi/xd8YurI_VsU/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=xd8YurI_VsU&list=PLh2Y_pKOa4UcjTE5zJ6Bbq9eiOtKuFQS_&index=6",
+      "descricao": "Explore as últimas inovações e estratégias avançadas no desenvolvimento de aplicativos móveis com React Native."
     },
     {
       "id": "10",
-      "titulo": "Primeiro App com o Flutter",
-      "categoria": "Mobile",
-      "imagem": "https://i.ytimg.com/vi/xSC8j3gl7xM/maxresdefault.jpg",
-      "video": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
-      "descricao": "Chegou a hora de criarmos nosso primeiro aplicativo com o Flutter e entender como fazer tudo funcionar!"
-    }     
+      "titulo": "Como aprender melhor?",
+      "categoria": "Inovação e Gestão",
+      "imagem": "https://i.ytimg.com/vi/uOagLB3uyeU/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=uOagLB3uyeU&list=PLh2Y_pKOa4UcjTE5zJ6Bbq9eiOtKuFQS_&index=14",
+      "descricao": "Dicas e estratégias para melhorar seu aprendizado em qualquer área, incluindo técnicas eficazes e abordagens modernas."
+    }      
   ]
 }
